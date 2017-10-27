@@ -1,2 +1,3 @@
 This is my first inital change
+Added feature 1 to the file after review feedback
 I wanted to do some change
